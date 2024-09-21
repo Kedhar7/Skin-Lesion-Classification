@@ -114,4 +114,3 @@ This project is distributed under the **MIT License**. Please refer to the `LICE
 
 ## Acknowledgments
 Special thanks to the creators of the **HAM10000 dataset** and the open-source community for their invaluable contributions and resources, which made this project possible.
-```
