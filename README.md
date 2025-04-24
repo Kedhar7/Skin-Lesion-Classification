@@ -1,4 +1,4 @@
-# Skin Lesion Detection Using Deep Learning
+# Skin Cancer Detection and Classification Using Deep Learning
 
 ## Project Overview
 This project focuses on building a powerful deep learning-based application for detecting and classifying various types of skin lesions. By employing advanced convolutional neural networks (CNN), the model aims to accurately classify skin lesion images, providing a critical tool for early diagnosis and treatment of skin conditions.
